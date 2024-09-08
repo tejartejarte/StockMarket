@@ -1,0 +1,21 @@
+.card{
+    text-align:center;
+    
+    background-image: url("https://www.google.com/imgres?q=stock%20market%20images%20hd&imgurl=https%3A%2F%2Fe1.pxfuel.com%2Fdesktop-wallpaper%2F462%2F154%2Fdesktop-wallpaper-stock-market-bull-vs-bear-stock-market-bull.jpg&imgrefurl=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fdesktop-wallpaper-fkqif&docid=Qmu2ge7pRrxdvM&tbnid=RCcxwgWwwoiz3M&vet=12ahUKEwix-f6GobSIAxXr1TgGHUKjOi0QM3oECCgQAA..i&w=850&h=478&hcb=2&ved=2ahUKEwix-f6GobSIAxXr1TgGHUKjOi0QM3oECCgQAA");
+    background-size:cover;
+    height:100vh;
+    background-position:center;
+
+}
+.main-heading{
+    color:green;
+    font-family:"Monoton"
+    font-size:40;
+    font-style:Normal;
+    font-weight:bold;
+    text-decoration:underline;
+
+}
+.paragraph{
+    color:red;
+}
